@@ -1,0 +1,20 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+}
+:root{
+  --color-light-100:#F6F6F6;
+  --color-new-green:#A6FF35;
+  --color-main-dark-100: #2d3527;
+  --color-main-dark-50:rgba(45, 53, 39, 0.5);
+
+
+  --animation-slow-cubic:cubic-bezier(0, 0, 0.33, 0.90);
+  --animation-slow-3: all 0.3s cubic-bezier(0, 0, 0.33, 0.90);
+  --animation-slow-6: all 0.6s cubic-bezier(0, 0, 0.33, 0.90);
+
+
+  --width--inner:90%;
+}
